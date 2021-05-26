@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jobin.
-- 👀 Programming in Java and C plus Networking and Data Science are also my fields of interest!
+- 👀 Programming in Java and Python plus Networking and Data Science are also my fields of interest!
 - 🌱 I’m currently learning Data Structures and Algorithms using Java and PHP. 
 - 📫 Reach to me via email - jobindonb@gmail.com
 
